@@ -1,0 +1,8 @@
+# https://github.com/raspberrypi/pico-examples/blob/master/.gitignore
+.idea
+.vscode
+_deps
+cmake-*
+build
+.DS_Store
+*.pdf
